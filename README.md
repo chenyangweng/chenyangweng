@@ -2,7 +2,7 @@
 - 👀 I’m interested in acoustics and programming
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on Python and Java projects related to acoustic signal processing
-- 📫 How to reach me: private message on Github.
+- 📫 How to reach me: private message on GitHub.
 
 <!---
 chenyangweng/chenyangweng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
